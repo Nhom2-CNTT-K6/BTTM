@@ -1,4 +1,4 @@
-﻿use master
+// T.anh sua﻿use master
 go
 if exists(select name from sysdatabases where name='QLDSV')
 drop Database QLDSV
